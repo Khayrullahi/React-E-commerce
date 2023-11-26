@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/https//khayrullahi.github.io/React-E-commerce/static/css/main.feb28f0f.css",
+    "main.js": "/https//khayrullahi.github.io/React-E-commerce/static/js/main.9eff08fb.js",
+    "static/media/slick.svg": "/https//khayrullahi.github.io/React-E-commerce/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/https//khayrullahi.github.io/React-E-commerce/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/https//khayrullahi.github.io/React-E-commerce/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/https//khayrullahi.github.io/React-E-commerce/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/https//khayrullahi.github.io/React-E-commerce/index.html",
+    "main.feb28f0f.css.map": "/https//khayrullahi.github.io/React-E-commerce/static/css/main.feb28f0f.css.map",
+    "main.9eff08fb.js.map": "/https//khayrullahi.github.io/React-E-commerce/static/js/main.9eff08fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.feb28f0f.css",
+    "static/js/main.9eff08fb.js"
+  ]
+}
